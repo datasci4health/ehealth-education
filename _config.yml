@@ -1,6 +1,6 @@
-title: Virtual Patient Roadmap
+title: eHealth Education Roadmaps
 
 theme: minima
 
 header_pages:
- - virtual-patient/
+ - virtual-patient/README.md
