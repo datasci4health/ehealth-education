@@ -1,6 +1,5 @@
-*updated at December 29th, 2021*
-
 # Virtual Patient
+*updated at December 29th, 2021*
 
 This roadmap follows a top-down approach (from more generic to more specific) to present key issues concerning the **Virtual Patient** subject.
 ## 1. Overview in Health Care Education
