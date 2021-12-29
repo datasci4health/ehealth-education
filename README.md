@@ -4,7 +4,7 @@ This roadmap follows a top-down approach (from more generic to more specific) to
 ## 1. Overview in Health Care Education
 This chapter of the book **Biomedical Informatics** gives an overview of education and technologies in the health care context.
 
-> Dev, P., & Schleyer, T. K. L. (2014). **Computers in Health Care Education**. In E. H. Shortliffe & J. J. Cimino (Eds.), Biomedical Informatics (pp. 675–693). Springer. [https://doi.org/10.1007/978-1-4471-4474-8_23]
+> Dev, P., & Schleyer, T. K. L. (2014). **Computers in Health Care Education**. In E. H. Shortliffe & J. J. Cimino (Eds.), Biomedical Informatics (pp. 675–693). Springer. [https://doi.org/10.1007/978-1-4471-4474-8_23](https://doi.org/10.1007/978-1-4471-4474-8_23)
 
 It starts presenting theories of learning and follows detailing computer and tools:
 * Drill and Practice
@@ -20,7 +20,7 @@ This is the textbook of the course [Biomedical Computing - Harvard-MIT Program i
 
 There is a more recent and recommended chapter, but until this date it is not available under CAPES Portal (brazilian access on public universities):
 
-> Dev, P., & Schleyer, T. (2021). **Digital Technology in Health Science Education**. In E. H. Shortliffe & J. J. Cimino (Eds.), Biomedical Informatics (pp. 841–865). Springer. [https://doi.org/10.1007/978-3-030-58721-5_25]
+> Dev, P., & Schleyer, T. (2021). **Digital Technology in Health Science Education**. In E. H. Shortliffe & J. J. Cimino (Eds.), Biomedical Informatics (pp. 841–865). Springer. https://doi.org/10.1007/978-3-030-58721-5_25
 ## 2. Probabilistic Clinical Reasoning and Evidence-based Medicine
 This chapter addresses how doctors reason in a probabilistic way to make decisions and the role of evidence-based medicine to guide them in decision making. It is fundamental to understanding the connection between data science and education. The chapter is designed to non-specialists:
 
