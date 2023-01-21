@@ -4,3 +4,5 @@ theme: minima
 
 header_pages:
  - virtual-patient/README.md
+ - scoring/README.md
+ - mimic/README.md

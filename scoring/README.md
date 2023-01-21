@@ -1,6 +1,6 @@
-# Prognosis Scoring Systems
+# Scoring Systems
 
-## Scoring Systems
+## Prognostic Scoring Systems
 
 ### SAPS 3
 
@@ -11,5 +11,3 @@
 ### Apache III
 
 > Knaus, W. A., Wagner, D. P., Draper, E. A., Zimmerman, J. E., Bergner, M., Bastos, P. G., Sirio, C. A., Murphy, D. J., Lotring, T., Damiano, A., & Harrell, F. E. (1991). The APACHE III Prognostic System: Risk Prediction of Hospital Mortality for Critically III Hospitalized Adults. Chest, 100(6), 1619–1636. [online](https://doi.org/10.1378/CHEST.100.6.1619)
-
-##

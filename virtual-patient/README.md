@@ -2,10 +2,11 @@
 *updated at December 29th, 2021*
 
 This roadmap follows a top-down approach (from more generic to more specific) to present key issues concerning the **Virtual Patient** subject.
-## 1. Overview in Health Care Education
-This chapter of the book **Biomedical Informatics** gives an overview of education and technologies in the health care context.
 
-> Dev, P., & Schleyer, T. K. L. (2014). **Computers in Health Care Education**. In E. H. Shortliffe & J. J. Cimino (Eds.), Biomedical Informatics (pp. 675–693). Springer. [online](https://doi.org/10.1007/978-1-4471-4474-8_23)
+## 1. Overview in Health Care Education
+This chapter of the book **Biomedical Informatics** gives an overview of education and technologies in the health care context. It is available under CAPES Portal (brazilian access on public universities).
+
+> Dev, P., & Schleyer, T. (2021). **Digital Technology in Health Science Education**. In E. H. Shortliffe & J. J. Cimino (Eds.), Biomedical Informatics (pp. 841–865). Springer. [online](https://doi.org/10.1007/978-3-030-58721-5_25)
 
 It starts presenting theories of learning and follows detailing computer and tools:
 * Drill and Practice
@@ -19,11 +20,8 @@ It presents the contexts and public targets in health care education, its ecosys
 
 This is the textbook of the course [Biomedical Computing - Harvard-MIT Program in Health Sciences and Technology](https://ocw.mit.edu/courses/health-sciences-and-technology/hst-950j-biomedical-computing-fall-2010/index.htm).
 
-There is a more recent and recommended chapter, but until this date it is not available under CAPES Portal (brazilian access on public universities):
-
-> Dev, P., & Schleyer, T. (2021). **Digital Technology in Health Science Education**. In E. H. Shortliffe & J. J. Cimino (Eds.), Biomedical Informatics (pp. 841–865). Springer. [online](https://doi.org/10.1007/978-3-030-58721-5_25)
-
 ## 2. Probabilistic Clinical Reasoning and Evidence-based Medicine
+
 This chapter addresses how doctors reason in a probabilistic way to make decisions and the role of evidence-based medicine to guide them in decision making. It is fundamental to understanding the connection between data science and education. The chapter is designed to non-specialists:
 
 > Owens, D. K., & Sox, H. C. (2014). **Biomedical Decision Making: Probabilistic Clinical Reasoning**. In E. H. Shortliffe & J. J. Cimino (Eds.), Biomedical Informatics (pp. 67–107). Springer. [online](https://doi.org/10.1007/978-1-4471-4474-8_3)
@@ -35,6 +33,7 @@ There is a more recent and recommended chapter, but until this date it is not av
 > Owens, D. K., Goldhaber-Fiebert, J. D., & Sox, H. C. (2021). **Biomedical Decision Making: Probabilistic Clinical Reasoning**. In Biomedical Informatics (pp. 77–120). Springer. [online](https://doi.org/10.1007/978-3-030-58721-5_3)
 
 ## 3. Virtual Patient
+
 3.1. This article is the first step for understanding the concept of virtual patients. It presents an overview of the approach inserting it inside a wider scenario of instructional modalities:
 
 > Cook, D. A., & Triola, M. M. (2009). **Virtual patients: a critical literature review and proposed next steps**. Medical Education, 43(4), 303–311. [online](https://doi.org/10.1111/j.1365-2923.2008.03286.x)
