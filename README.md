@@ -4,3 +4,4 @@ eHealth introductory roadmaps for the domain:
 * [Scoring Systems](scoring/)
 * [MIMIC](mimic/)
 * [Richard Cabot and ChatGPT](gpt/cabot/)
+* [Zombie Health and ChatGPT](gpt/zombie/)
