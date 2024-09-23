@@ -28,7 +28,7 @@
 
 ### Protease-Activated Receptor 1 Inhibitors (PAR-1) - reducing occlusive thrombus formation
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uYpv8T7Qoh0?si=SBCQ0JMjozuaLwOP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![PAR-1](images/par-1.png)](https://youtu.be/uYpv8T7Qoh0?si=ShFCbzlRf9Slpcwi)
 
 ## Pathways
 
