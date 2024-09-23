@@ -2,6 +2,7 @@ eHealth introductory roadmaps for the domain:
 
 * [Biological Scales](scales/)
 * [Virus](virus/)
+* [e_Biology](e-biology/)
 * [Virtual Patient](virtual-patient/)
 * [Scoring Systems](scoring/)
 * [MIMIC](mimic/)
